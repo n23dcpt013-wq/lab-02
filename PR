@@ -1,0 +1,5 @@
+git checkout -b feature/HBS-1-diagrams
+git add .
+git commit -m "HBS-1 Add: diagrams + SQL #comment add PlantUML/PNG + DDL"
+git push --set-upstream origin feature/HBS-1-diagrams
+# lên GitHub bấm “Compare & pull request”, title có HBS-1
