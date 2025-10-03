@@ -12,3 +12,5 @@ ERD (Entity Relationship Diagram) Sơ đồ dữ liệu tổng quát: Guest, Res
 
 Công cụ sử dụng Jira MySQL Workbench PlantUML / Draw.io/ online Visual Paradigm GitHub# lab-02
 thiết kế hệ thông hotel booking system
+
+![usecase]()
